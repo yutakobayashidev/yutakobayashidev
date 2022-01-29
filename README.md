@@ -4,7 +4,7 @@
   <a href="https://github.com/yutakobayashidev/yutakobayashdev/">
     <img src="https://komarev.com/ghpvc/?username=yutakobayashdev" alt="yutakobayashdev" />
   </a>
-  <a href="http://twitter.com/yutakobayashi__">
+  <a href="https://twitter.com/yutakobayashi__">
     <img height="20" src="https://img.shields.io/twitter/follow/yutakobayashi__?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/yutakobayashidev">
