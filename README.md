@@ -1,7 +1,7 @@
 # Hi, I'm Yuta Kobayashi 👋 
 
 <p align="left"> 
-  <a href="https://github.com/yutakobayashidev/yutakobayashdev/">
+  <a href="https://github.com/yutakobayashidev/yutakobayashidev/">
     <img src="https://komarev.com/ghpvc/?username=yutakobayashdev" alt="yutakobayashdev" />
   </a>
   <a href="https://twitter.com/yutakobayashi__">
