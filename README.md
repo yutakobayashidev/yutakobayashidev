@@ -13,9 +13,9 @@
   <a href="https://www.reddit.com/user/yutakobayashi">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutakobayashi?label=Reddit&logo=reddit&style=flat" />
   </a>
-<a href="https://zenn.dev/yutakobayashi">
-  <img src="https://zenn.badge.nikaera.com/s/yutakobayashi/likes?style=flat" alt="yutakobayashi likes" />
-</a>
+  <a href="https://zenn.dev/yutakobayashi">
+    <img src="https://zenn.badge.nikaera.com/s/yutakobayashi/likes?style=flat" alt="yutakobayashi likes" />
+  </a>
 </p>
 
 ### 📕 Blog Posts
