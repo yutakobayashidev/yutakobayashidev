@@ -1,9 +1,22 @@
 # Hi there 👋
 
-### 🌏 Where to find me
-
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yutakobayashi__)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yutakobayashi__)
+<p align="left"> 
+  <a href="https://github.com/yutakobayashidev/yutakobayashdev/">
+    <img src="https://komarev.com/ghpvc/?username=yutakobayashdev" alt="yutakobayashdev" />
+  </a>
+  <a href="http://twitter.com/yutakobayashi__">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutakobayashi__?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/yutakobayashidev">
+    <img height="20" src="https://img.shields.io/github/followers/yutakobayashidev?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/yutakobayashi">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
+  </a>
+<a href="https://zenn.dev/yutakobayashi">
+  <img src="https://zenn.badge.nikaera.com/s/yutakobayashi/likes?style=flat" alt="yutakobayashi likes" />
+</a>
+</p>
 
 ### 📕 Blog Posts
 
