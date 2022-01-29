@@ -12,3 +12,12 @@
 - [WordPressの改ページでページごとに条件分岐する方法](https://zenn.dev/yutakobayashi/articles/ecb99aa4d6e7cd)
 - [iOSのショートカットアプリの使用例](https://zenn.dev/yutakobayashi/articles/c59ca5abf0b288)
 <!-- BLOG-POST-LIST:END -->
+
+### 📊 Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yutakobayashidev&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutakobayashidev" />
+</a>
