@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi I'm Yuta Kobayashi 👋 
 
 <p align="left"> 
   <a href="https://github.com/yutakobayashidev/yutakobayashdev/">
