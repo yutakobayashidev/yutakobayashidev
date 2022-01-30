@@ -1,4 +1,4 @@
-# Hi, I'm Yuta Kobayashi 👋 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1613942336/14158/balloons.gif?1613942336" width="30"/> Hi, I'm Yuta Kobayashi</h1>
 
 <p align="left"> 
   <a href="https://github.com/yutakobayashidev/yutakobayashidev/">
