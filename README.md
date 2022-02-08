@@ -21,9 +21,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [なぜJavaとJavaScriptは名前が似ているのか?](https://zenn.dev/yutakobayashi/articles/d24567e67ef373)
-- [WordPressの改ページでページごとに条件分岐する方法](https://zenn.dev/yutakobayashi/articles/ecb99aa4d6e7cd)
-- [iOSのショートカットアプリの使用例](https://zenn.dev/yutakobayashi/articles/c59ca5abf0b288)
+
+- [なぜ Java と JavaScript は名前が似ているのか?](https://zenn.dev/yutakobayashi/articles/d24567e67ef373)
+- [WordPress の改ページでページごとに条件分岐する方法](https://zenn.dev/yutakobayashi/articles/ecb99aa4d6e7cd)
+- [iOS のショートカットアプリの使用例](https://zenn.dev/yutakobayashi/articles/c59ca5abf0b288)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
@@ -34,3 +35,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutakobayashidev" />
 </a>
+
+### 👩🏻‍💻 Development metrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
