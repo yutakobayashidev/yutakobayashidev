@@ -21,6 +21,7 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [政治家の発言を可視化し、問題解決に取り組んでいるかを調べる [by ChatGPT]](https://qiita.com/yutakobayashi/items/1381de1da52ea7ca56b9)
 - [Notion APIの活用事例](https://zenn.dev/yutakobayashi/articles/notion-api-advent-calendar-22)
 - [なぜJavaとJavaScriptは名前が似ているのか?](https://zenn.dev/yutakobayashi/articles/d24567e67ef373)
 - [WordPressの改ページでページごとに条件分岐する方法](https://zenn.dev/yutakobayashi/articles/ecb99aa4d6e7cd)
