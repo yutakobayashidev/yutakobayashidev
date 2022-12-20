@@ -21,6 +21,7 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Notion APIの活用事例](https://zenn.dev/yutakobayashi/articles/notion-api-advent-calendar-22)
 - [なぜJavaとJavaScriptは名前が似ているのか?](https://zenn.dev/yutakobayashi/articles/d24567e67ef373)
 - [WordPressの改ページでページごとに条件分岐する方法](https://zenn.dev/yutakobayashi/articles/ecb99aa4d6e7cd)
 - [iOSのショートカットアプリの使用例](https://zenn.dev/yutakobayashi/articles/c59ca5abf0b288)
