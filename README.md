@@ -14,7 +14,10 @@
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutakobayashi?label=Reddit&logo=reddit&style=flat" />
   </a>
   <a href="https://zenn.dev/yutakobayashi">
-    <img src="https://zenn.badge.nikaera.com/s/yutakobayashi/likes?style=flat" alt="yutakobayashi likes" />
+    <img src="https://badgen.org/img/zenn/yutakobayashi/likes?style=plastic" alt="Zenn likes" />
+  </a>
+  <a href="https://qiita.com/yutakobayashi">
+    <img src="https://badgen.org/img/qiita/yutakobayashi/contributions?style=plastic" alt="Qiita Contributions" />
   </a>
 </p>
 
