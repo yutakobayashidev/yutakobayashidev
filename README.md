@@ -7,6 +7,9 @@
   <a href="https://twitter.com/yutakobayashi__">
     <img height="20" src="https://img.shields.io/twitter/follow/yutakobayashi__?label=Twitter&logo=twitter&style=flat" />
   </a>
+  <a href="https://mastodon.social/@yutakobayashi">
+    <img height="20" src="https://img.shields.io/mastodon/follow/107202517736161782?domain=https%3A%2F%2Fmastodon.social&label=Mastodon&logo=mastodon&style=plastic" />
+  </a>
   <a href="https://github.com/yutakobayashidev">
     <img height="20" src="https://img.shields.io/github/followers/yutakobayashidev?label=follow&logo=github&style=flat" />
   </a>
