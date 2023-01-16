@@ -45,15 +45,15 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-400%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 29 Contributions in the Year 2023
  > 
-> 📦 11.1 kB Used in GitHub's Storage 
+> 📦 11.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,14 +90,14 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               17 hrs 33 mins      ████████████████░░░░░░░░░   66.03% 
-Other                    4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
-Bash                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
-Python                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.52% 
-JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+TypeScript               29 hrs 25 mins      ███████████████████░░░░░░   75.96% 
+Other                    4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
+Bash                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.09% 
+Python                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.79% 
+JSON                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
 
 🔥 Editors: 
-VS Code                  26 hrs 36 mins      █████████████████████████   100.0%
+VS Code                  38 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
@@ -118,5 +118,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yutakobayashidev/yutakobayashidev/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/01/2023 18:41:21 UTC
+ Last Updated on 16/01/2023 18:42:59 UTC
 <!--END_SECTION:waka-->
