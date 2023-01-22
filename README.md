@@ -45,9 +45,9 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-461%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,14 +90,14 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               65 hrs 7 mins       █████████████████████░░░░   87.05% 
-Other                    7 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.42% 
-Markdown                 57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28% 
-JSON                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06% 
-Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
+TypeScript               64 hrs 39 mins      ██████████████████████░░░   89.65% 
+Other                    5 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
+Markdown                 57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32% 
+JSON                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
 
 🔥 Editors: 
-VS Code                  74 hrs 49 mins      █████████████████████████   100.0%
+VS Code                  72 hrs 6 mins       █████████████████████████   100.0%
 
 ```
 
@@ -118,5 +118,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yutakobayashidev/yutakobayashidev/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/01/2023 18:40:18 UTC
+ Last Updated on 22/01/2023 18:41:36 UTC
 <!--END_SECTION:waka-->
