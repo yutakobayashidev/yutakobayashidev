@@ -45,19 +45,19 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 14.4 kB Used in GitHub's Storage 
+> 📦 15.0 kB Used in GitHub's Storage 
  > 
-> 🏆 658 Contributions in the Year 2023
+> 🏆 660 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 27 Private Repositories 
  > 
@@ -88,14 +88,14 @@ Sunday                   96 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               58 hrs 4 mins       ████████████████████████░   94.91 % 
-CSS                      50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-JSON                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Bash                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-JavaScript               37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+TypeScript               62 hrs 25 mins      ███████████████████████░░   92.51 % 
+MDX                      1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Bash                     58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JSON                     58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JavaScript               52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-VS Code                  61 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  67 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,5 +115,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yutakobayashidev/yutakobayashidev/main/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2023 18:39:25 UTC
+ Last Updated on 06/03/2023 18:42:52 UTC
 <!--END_SECTION:waka-->
