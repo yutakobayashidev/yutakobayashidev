@@ -27,10 +27,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [持続可能なソフトウェアを作る難しさ](https://yutakobayashi.dev/blog/sustainable-software)
+- [フリースクールの検索サイトを作った](https://yutakobayashi.dev/blog/freeschool-search)
 - [Next.jsでGitHub GraphQL APIを使用してピンしたリポジトリを取得する](https://zenn.dev/yutakobayashi/articles/github-graphql-api-pin-repository)
-- [Auth.js &lpar;Next.js&rpar;でセッション情報を追加した際のTypeScriptの型エラーについて](https://zenn.dev/yutakobayashi/articles/nextauth-session-typescript)
-- [discord.pyでサーバーのオンラインユーザー数の変化を分析してみた](https://zenn.dev/yutakobayashi/articles/discord-online-members-chart)
-- [政治家の発言を可視化し、問題解決に取り組んでいるかを調べる [by ChatGPT]](https://qiita.com/yutakobayashi/items/1381de1da52ea7ca56b9)
+- [N中等部を辞めることにしました](https://yutakobayashi.dev/blog/bye-n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
