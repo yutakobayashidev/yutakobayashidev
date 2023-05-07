@@ -25,9 +25,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Next.js 13でGoogleアナリティクスを導入した際のheadの表示問題と解決方法 &lpar;useSearchParams&rpar;](https://zenn.dev/yutakobayashi/articles/head-google-analytics)
+- [持続可能なソフトウェアを作る難しさ](https://yutakobayashi.dev/blog/sustainable-software)
+- [フリースクールの検索サイトを作った](https://yutakobayashi.dev/blog/freeschool-search)
 - [Next.jsでGitHub GraphQL APIを使用してピンしたリポジトリを取得する](https://zenn.dev/yutakobayashi/articles/github-graphql-api-pin-repository)
-- [Auth.js &lpar;Next.js&rpar;でセッション情報を追加した際のTypeScriptの型エラーについて](https://zenn.dev/yutakobayashi/articles/nextauth-session-typescript)
-- [discord.pyでサーバーのオンラインユーザー数の変化を分析してみた](https://zenn.dev/yutakobayashi/articles/discord-online-members-chart)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
