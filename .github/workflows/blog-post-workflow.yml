@@ -16,4 +16,4 @@ jobs:
         with:
           max_post_count: "4"
           remove_duplicates: true
-          feed_list: 'https://zenn.dev/yutakobayashi/feed,https://qiita.com/yutakobayashi/feed,https://yutakobayashi.dev/feed.xml'
+          feed_list: 'https://zenn.dev/yutakobayashi/feed,https://qiita.com/yutakobayashi/feed,https://yutakobayashi.dev/feed'
