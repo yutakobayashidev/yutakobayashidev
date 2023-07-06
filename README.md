@@ -24,10 +24,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [国会の情報を整理するアプリを開発している話](https://yutakobayashi.dev/blog/capitalens)
 - [Next.js 13でGoogleアナリティクスを導入した際のheadの表示問題と解決方法 &lpar;useSearchParams&rpar;](https://zenn.dev/yutakobayashi/articles/head-google-analytics)
 - [持続可能なソフトウェアを作る難しさ](https://yutakobayashi.dev/blog/sustainable-software)
 - [フリースクールの検索サイトを作った](https://yutakobayashi.dev/blog/freeschool-search)
-- [Next.jsでGitHub GraphQL APIを使用してピンしたリポジトリを取得する](https://zenn.dev/yutakobayashi/articles/github-graphql-api-pin-repository)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
