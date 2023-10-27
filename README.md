@@ -24,10 +24,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js + VercelのMiddlewareでEUからのアクセスをブロックする](https://zenn.dev/yutakobayashi/articles/eu-next-middleware)
 - [ChatGPTのFunction CallingでUIを動的レンダリングしたら楽しかった](https://zenn.dev/yutakobayashi/articles/function-call-dynamic-ui)
 - [今の教育と未来](https://yutakobayashi.dev/blog/learning-over-education)
 - [国会の情報を整理するアプリを開発している話](https://yutakobayashi.dev/blog/capitalens)
-- [Next.js 13でGoogleアナリティクスを導入した際のheadの表示問題と解決方法 &lpar;useSearchParams&rpar;](https://zenn.dev/yutakobayashi/articles/head-google-analytics)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
