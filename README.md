@@ -24,10 +24,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GPTs ActionsのOAuthで無茶苦茶ハマった](https://zenn.dev/yutakobayashi/articles/gpts-oauth-error)
 - [GPTsでNotion APIを叩くようにしてみたらやばかった](https://zenn.dev/yutakobayashi/articles/gpts-notion-api)
 - [Next.js + VercelのMiddlewareでEUからのアクセスをブロックする](https://zenn.dev/yutakobayashi/articles/eu-next-middleware)
 - [ChatGPTのFunction CallingでUIを動的レンダリングしたら楽しかった](https://zenn.dev/yutakobayashi/articles/function-call-dynamic-ui)
-- [今の教育と未来](https://yutakobayashi.dev/blog/learning-over-education)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
