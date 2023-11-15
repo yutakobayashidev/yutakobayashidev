@@ -25,9 +25,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GPTs ActionsのOAuthで無茶苦茶ハマった](https://zenn.dev/yutakobayashi/articles/gpts-oauth-error)
+- [2023年 振り返り](https://yutakobayashi.dev/blog/2023)
 - [GPTsでNotion APIを叩くようにしてみたらやばかった](https://zenn.dev/yutakobayashi/articles/gpts-notion-api)
 - [Next.js + VercelのMiddlewareでEUからのアクセスをブロックする](https://zenn.dev/yutakobayashi/articles/eu-next-middleware)
-- [ChatGPTのFunction CallingでUIを動的レンダリングしたら楽しかった](https://zenn.dev/yutakobayashi/articles/function-call-dynamic-ui)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
