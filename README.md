@@ -24,10 +24,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [shadcn/uiのカレンダーコンポーネントを日本向けにローカライズする](https://zenn.dev/yutakobayashi/articles/shadcn-calender-ja)
 - [GPTs ActionsのOAuthで無茶苦茶ハマった](https://zenn.dev/yutakobayashi/articles/gpts-oauth-error)
 - [2023年 振り返り](https://yutakobayashi.dev/blog/2023)
 - [GPTsでNotion APIを叩くようにしてみたらやばかった](https://zenn.dev/yutakobayashi/articles/gpts-notion-api)
-- [Next.js + VercelのMiddlewareでEUからのアクセスをブロックする](https://zenn.dev/yutakobayashi/articles/eu-next-middleware)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
