@@ -27,7 +27,7 @@
 - [ブロックプログラミング学習を支援するAIアシスタントを作ってみた &lpar;Blockly × OpenAI&rpar;](https://zenn.dev/yutakobayashi/articles/blockly-openai)
 - [shadcn/uiのカレンダーコンポーネントを日本向けにローカライズする](https://zenn.dev/yutakobayashi/articles/shadcn-calender-ja)
 - [GPTs ActionsのOAuthで無茶苦茶ハマった](https://zenn.dev/yutakobayashi/articles/gpts-oauth-error)
-- [2023年 振り返り](https://yutakobayashi.dev/blog/2023)
+- [GPTsでNotion APIを叩くようにしてみたらやばかった](https://zenn.dev/yutakobayashi/articles/gpts-notion-api)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
