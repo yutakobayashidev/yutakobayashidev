@@ -24,10 +24,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [若年層でコミュニティ運営する際の反省点](https://yutakobayashi.dev/blog/./blog/junior-community)
+- [HonoXでサイトを書き直した](https://yutakobayashi.dev/blog/./blog/honox)
 - [Eagleにスマホから画像を送信して快適にライブラリを更新する &lpar;Cloudflare Tunnel&rpar;](https://zenn.dev/yutakobayashi/articles/eagle-cf-tunnel)
 - [ブロックプログラミング学習を支援するAIアシスタントを作ってみた &lpar;Blockly × OpenAI&rpar;](https://zenn.dev/yutakobayashi/articles/blockly-openai)
-- [shadcn/uiのカレンダーコンポーネントを日本向けにローカライズする](https://zenn.dev/yutakobayashi/articles/shadcn-calender-ja)
-- [GPTs ActionsのOAuthで無茶苦茶ハマった](https://zenn.dev/yutakobayashi/articles/gpts-oauth-error)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
