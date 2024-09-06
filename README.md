@@ -24,10 +24,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Drizzle StudioでローカルのCloudflare D1データベースに繋ぐときのポイント](https://zenn.dev/hanabi_rest/articles/drizzle-kit-d1)
 - [若年層でコミュニティ運営する際の反省点](https://yutakobayashi.dev/blog/junior-community)
 - [HonoXでサイトを書き直した](https://yutakobayashi.dev/blog/honox)
-- [Eagleにスマホから画像を送信して快適にライブラリを更新する &lpar;Cloudflare Tunnel&rpar;](https://zenn.dev/yutakobayashi/articles/eagle-cf-tunnel)
+- [国会の情報を整理するアプリを開発している話](https://yutakobayashi.dev/blog/capitalens)
+- [持続可能なソフトウェアを作る難しさ](https://yutakobayashi.dev/blog/sustainable-software)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
