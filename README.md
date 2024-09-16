@@ -24,10 +24,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bridgy Fedをはじめた](https://yutakobayashi.dev/blog/bridgy-fed/)
 - [深セン旅行に行ってきた](https://yutakobayashi.dev/blog/shenzhen-2024/)
 - [Drizzle StudioでローカルのCloudflare D1データベースに繋ぐときのポイント](https://zenn.dev/hanabi_rest/articles/drizzle-kit-d1)
 - [若年層でコミュニティ運営する際の反省点](https://yutakobayashi.dev/blog/junior-community/)
-- [HonoXでサイトを書き直した](https://yutakobayashi.dev/blog/honox/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
