@@ -42,7 +42,7 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C110%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C113%20hrs%2012%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,7 +70,7 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 14 mins       █████████████████░░░░░░░░   67.87 % 
+TypeScript               4 hrs 14 mins       █████████████████░░░░░░░░   67.86 % 
 HTML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 MDX                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
@@ -90,5 +90,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2024 18:46:02 UTC
+ Last Updated on 03/10/2024 18:44:15 UTC
 <!--END_SECTION:waka-->
