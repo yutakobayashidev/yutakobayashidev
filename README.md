@@ -24,10 +24,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bridgy Fedをはじめた](https://yutakobayashi.dev/blog/bridgy-fed/)
+- [深セン旅行に行ってきた](https://yutakobayashi.dev/blog/shenzhen-2024/)
 - [Drizzle StudioでローカルのCloudflare D1データベースに繋ぐときのポイント](https://zenn.dev/hanabi_rest/articles/drizzle-kit-d1)
-- [Eagleにスマホから画像を送信して快適にライブラリを更新する &lpar;Cloudflare Tunnel&rpar;](https://zenn.dev/yutakobayashi/articles/eagle-cf-tunnel)
-- [ブロックプログラミング学習を支援するAIアシスタントを作ってみた &lpar;Blockly × OpenAI&rpar;](https://zenn.dev/yutakobayashi/articles/blockly-openai)
-- [shadcn/uiのカレンダーコンポーネントを日本向けにローカライズする](https://zenn.dev/yutakobayashi/articles/shadcn-calender-ja)
+- [若年層でコミュニティ運営する際の反省点](https://yutakobayashi.dev/blog/junior-community/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
