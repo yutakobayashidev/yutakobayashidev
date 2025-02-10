@@ -24,7 +24,7 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [2025年1月](https://yutakobayashi.dev/blog/2025-01/)
+- [Links of January](https://yutakobayashi.dev/blog/2025-01/)
 - [Bridgy Fedをはじめた](https://yutakobayashi.dev/blog/bridgy-fed/)
 - [深セン旅行に行ってきた](https://yutakobayashi.dev/blog/shenzhen-2024/)
 - [Drizzle StudioでローカルのCloudflare D1データベースに繋ぐときのポイント](https://zenn.dev/hanabi_rest/articles/drizzle-kit-d1)
