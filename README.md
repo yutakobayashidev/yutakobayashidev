@@ -42,13 +42,11 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C577%20hrs%2054%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 267.1 kB Used in GitHub's Storage 
  > 
-> 🏆 329 Contributions in the Year 2025
+> 🏆 332 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,5 +67,5 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2025 19:15:40 UTC
+ Last Updated on 27/03/2025 19:17:40 UTC
 <!--END_SECTION:waka-->
