@@ -24,10 +24,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Links of April](https://yutakobayashi.dev/blog/2025-04/)
-- [Links of February](https://yutakobayashi.dev/blog/2025-02/)
-- [Links of January](https://yutakobayashi.dev/blog/2025-01/)
-- [Bridgy Fedをはじめた](https://yutakobayashi.dev/blog/bridgy-fed/)
+- [Links of April](https://yutakobayashi.com/blog/2025-04/)
+- [Links of February](https://yutakobayashi.com/blog/2025-02/)
+- [Links of January](https://yutakobayashi.com/blog/2025-01/)
+- [Bridgy Fedをはじめた](https://yutakobayashi.com/blog/bridgy-fed/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
