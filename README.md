@@ -42,13 +42,13 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C977%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C981%20hrs%2023%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 270.0 kB Used in GitHub's Storage 
  > 
-> 🏆 874 Contributions in the Year 2025
+> 🏆 876 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,6 +56,29 @@
  > 
 > 🔑 49 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7152 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+🌆 Daytime                9592 commits        ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+🌃 Evening                11251 commits       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌙 Night                  12281 commits       ████████░░░░░░░░░░░░░░░░░   30.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TypeScript               19 hrs 43 mins      ██████████████████░░░░░░░   73.18 % 
+JSON                     3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+YAML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+SQL                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -69,5 +92,5 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2025 19:34:48 UTC
+ Last Updated on 29/07/2025 19:33:13 UTC
 <!--END_SECTION:waka-->
