@@ -24,9 +24,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [政治家の発言を可視化し、問題解決に取り組んでいるかを調べる [by ChatGPT]](https://qiita.com/yutakobayashi/items/1381de1da52ea7ca56b9)
-- [Windows10のドライブレーターの変更方法とエラーが出た時の対処法](https://qiita.com/yutakobayashi/items/1fafa8e58450ec032c2b)
-- [Windows10をカスタマイズする前にしておくことのメモ](https://qiita.com/yutakobayashi/items/a3620aa53fbbc0bc3b84)
+- [Links of April](https://yutakobayashi.com/blog/2025-04/)
+- [Links of February](https://yutakobayashi.com/blog/2025-02/)
+- [Links of January](https://yutakobayashi.com/blog/2025-01/)
+- [Bridgy Fedをはじめた](https://yutakobayashi.com/blog/bridgy-fed/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
