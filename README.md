@@ -42,13 +42,13 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C332%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C344%20hrs%2058%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 271.0 kB Used in GitHub's Storage 
+> 📦 271.4 kB Used in GitHub's Storage 
  > 
-> 🏆 2,174 Contributions in the Year 2025
+> 🏆 2,250 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,29 +56,6 @@
  > 
 > 🔑 51 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                12994 commits       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-🌆 Daytime                18269 commits       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-🌃 Evening                20823 commits       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-🌙 Night                  19888 commits       ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-TypeScript               38 hrs 55 mins      █████████████████░░░░░░░░   67.11 % 
-JSON                     4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Markdown                 3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Rust                     3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Python                   2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -92,5 +69,5 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2025 19:03:36 UTC
+ Last Updated on 03/12/2025 19:03:16 UTC
 <!--END_SECTION:waka-->
