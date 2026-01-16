@@ -42,13 +42,13 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C497%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C502%20hrs%2043%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 272.5 kB Used in GitHub's Storage 
  > 
-> 🏆 173 Contributions in the Year 2026
+> 🏆 180 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,6 +56,29 @@
  > 
 > 🔑 52 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                18270 commits       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+🌆 Daytime                25718 commits       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+🌃 Evening                30729 commits       ████████░░░░░░░░░░░░░░░░░   31.34 % 
+🌙 Night                  23320 commits       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TypeScript               5 hrs 32 mins       ██████████████░░░░░░░░░░░   57.05 % 
+JSON                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Nix                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -69,5 +92,5 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2026 19:15:33 UTC
+ Last Updated on 16/01/2026 19:09:26 UTC
 <!--END_SECTION:waka-->
