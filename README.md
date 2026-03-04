@@ -42,13 +42,13 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C584%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C584%20hrs%2014%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 289.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,318 Contributions in the Year 2026
+> 🏆 1,322 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,18 +56,41 @@
  > 
 > 🔑 52 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                20313 commits       █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+🌆 Daytime                26559 commits       ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+🌃 Evening                32297 commits       ████████░░░░░░░░░░░░░░░░░   31.32 % 
+🌙 Night                  23945 commits       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Markdown                 25 mins             █████████░░░░░░░░░░░░░░░░   36.55 % 
+JSON                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+TypeScript               14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Nix                      11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Rust                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               66 repos            ███████████████░░░░░░░░░░   58.41 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+TypeScript               67 repos            ███████████████░░░░░░░░░░   59.29 % 
 Nix                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 
 
 
- Last Updated on 03/03/2026 19:58:53 UTC
+ Last Updated on 04/03/2026 19:51:00 UTC
 <!--END_SECTION:waka-->
