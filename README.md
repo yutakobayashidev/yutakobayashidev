@@ -42,55 +42,32 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C585%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C586%20hrs-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 291.1 kB Used in GitHub's Storage 
+> 📦 295.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,358 Contributions in the Year 2026
+> 🏆 1,371 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 110 Public Repositories 
  > 
-> 🔑 52 Private Repositories 
+> 🔑 53 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                20571 commits       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-🌆 Daytime                26869 commits       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-🌃 Evening                32878 commits       ████████░░░░░░░░░░░░░░░░░   31.45 % 
-🌙 Night                  24233 commits       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-TypeScript               36 mins             █████████░░░░░░░░░░░░░░░░   37.39 % 
-Nix                      25 mins             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-moonbit                  16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               66 repos            ███████████████░░░░░░░░░░   58.93 % 
-Nix                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TypeScript               66 repos            ███████████████░░░░░░░░░░   58.41 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Nix                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 
 
 
- Last Updated on 10/03/2026 19:56:59 UTC
+ Last Updated on 11/03/2026 19:56:28 UTC
 <!--END_SECTION:waka-->
