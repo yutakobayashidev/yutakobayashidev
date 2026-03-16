@@ -46,23 +46,23 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 294.9 kB Used in GitHub's Storage 
+> 📦 298.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,404 Contributions in the Year 2026
+> 🏆 1,412 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 111 Public Repositories 
  > 
-> 🔑 53 Private Repositories 
+> 🔑 54 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20406 commits       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-🌆 Daytime                26680 commits       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-🌃 Evening                32804 commits       ████████░░░░░░░░░░░░░░░░░   31.60 % 
-🌙 Night                  23926 commits       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+🌞 Morning                20272 commits       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+🌆 Daytime                26568 commits       ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+🌃 Evening                32694 commits       ████████░░░░░░░░░░░░░░░░░   31.65 % 
+🌙 Night                  23768 commits       ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
 ```
 
 
@@ -72,25 +72,25 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Nix                      10 mins             ██████████████░░░░░░░░░░░   54.81 % 
-JSON                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Bash                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-sh                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Nix                      10 mins             ██████████████░░░░░░░░░░░   55.37 % 
+JSON                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Bash                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+sh                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               66 repos            ██████████████░░░░░░░░░░░   57.89 % 
+TypeScript               65 repos            ██████████████░░░░░░░░░░░   57.02 % 
 Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Nix                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 
 
 
- Last Updated on 15/03/2026 19:52:06 UTC
+ Last Updated on 16/03/2026 19:58:51 UTC
 <!--END_SECTION:waka-->
