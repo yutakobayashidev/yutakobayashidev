@@ -42,13 +42,13 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C586%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C587%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 299.0 kB Used in GitHub's Storage 
+> 📦 301.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,425 Contributions in the Year 2026
+> 🏆 1,440 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,10 +59,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                18185 commits       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-🌆 Daytime                23683 commits       ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-🌃 Evening                28636 commits       ████████░░░░░░░░░░░░░░░░░   31.39 % 
-🌙 Night                  20726 commits       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+🌞 Morning                18198 commits       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+🌆 Daytime                23684 commits       ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+🌃 Evening                28636 commits       ████████░░░░░░░░░░░░░░░░░   31.38 % 
+🌙 Night                  20727 commits       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
 ```
 
 
@@ -72,22 +72,25 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Nix                      0 secs              ██████████████████░░░░░░░   73.68 % 
-sh                       0 secs              ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Typst                    32 mins             █████████████░░░░░░░░░░░░   50.19 % 
+Nix                      30 mins             ████████████░░░░░░░░░░░░░   46.62 % 
+gitignore                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+TypeScript               61 repos            ██████████████░░░░░░░░░░░   54.95 % 
+Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 Nix                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 
 
 
- Last Updated on 21/03/2026 19:52:32 UTC
+ Last Updated on 22/03/2026 19:56:34 UTC
 <!--END_SECTION:waka-->
