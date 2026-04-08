@@ -46,49 +46,28 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 301.5 kB Used in GitHub's Storage 
+> 📦 301.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,447 Contributions in the Year 2026
+> 🏆 1,475 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 112 Public Repositories 
+> 📜 113 Public Repositories 
  > 
 > 🔑 54 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                18353 commits       █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-🌆 Daytime                23813 commits       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-🌃 Evening                28812 commits       ████████░░░░░░░░░░░░░░░░░   31.36 % 
-🌙 Night                  20886 commits       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Nix                      10 mins             ██████████████████░░░░░░░   73.51 % 
-sh                       3 mins              ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               62 repos            ██████████████░░░░░░░░░░░   55.36 % 
-Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Nix                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+TypeScript               63 repos            ██████████████░░░░░░░░░░░   55.75 % 
+Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Nix                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 
 
 
 
- Last Updated on 07/04/2026 20:02:02 UTC
+ Last Updated on 08/04/2026 20:05:20 UTC
 <!--END_SECTION:waka-->
