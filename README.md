@@ -42,13 +42,11 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C605%20hrs%2052%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 302.0 kB Used in GitHub's Storage 
+> 📦 302.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,646 Contributions in the Year 2026
+> 🏆 1,691 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,41 +54,18 @@
  > 
 > 🔑 55 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                19659 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-🌆 Daytime                25014 commits       ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-🌃 Evening                30656 commits       ████████░░░░░░░░░░░░░░░░░   31.31 % 
-🌙 Night                  22589 commits       ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Nix                      2 hrs 56 mins       ██████████████████░░░░░░░   73.06 % 
-Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               62 repos            █████████████░░░░░░░░░░░░   53.91 % 
-Python                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Nix                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+TypeScript               63 repos            ██████████████░░░░░░░░░░░   54.31 % 
+Python                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Nix                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
 
 
- Last Updated on 16/05/2026 19:45:36 UTC
+ Last Updated on 17/05/2026 19:45:30 UTC
 <!--END_SECTION:waka-->
