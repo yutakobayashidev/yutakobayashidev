@@ -42,13 +42,13 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C655%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C658%20hrs%207%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 302.5 kB Used in GitHub's Storage 
+> 📦 302.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,306 Contributions in the Year 2026
+> 🏆 2,362 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,41 +56,18 @@
  > 
 > 🔑 54 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                20590 commits       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-🌆 Daytime                25938 commits       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-🌃 Evening                31700 commits       ████████░░░░░░░░░░░░░░░░░   31.14 % 
-🌙 Night                  23578 commits       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Nix                      5 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.62 % 
-TypeScript               3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-Terraform                3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Markdown                 3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               65 repos            ██████████████░░░░░░░░░░░   54.17 % 
-Nix                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Python                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+TypeScript               64 repos            █████████████░░░░░░░░░░░░   53.78 % 
+Nix                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Python                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 
 
 
 
- Last Updated on 18/06/2026 20:45:00 UTC
+ Last Updated on 19/06/2026 20:35:11 UTC
 <!--END_SECTION:waka-->
