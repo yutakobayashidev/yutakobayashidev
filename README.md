@@ -42,13 +42,11 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C672%20hrs%2013%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 316.8 kB Used in GitHub's Storage 
  > 
-> 🏆 3,006 Contributions in the Year 2026
+> 🏆 3,015 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,25 +54,6 @@
  > 
 > 🔑 54 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                28955 commits       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-🌆 Daytime                36339 commits       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-🌃 Evening                44216 commits       ████████░░░░░░░░░░░░░░░░░   30.58 % 
-🌙 Night                  35083 commits       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-JSON                     10 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -88,5 +67,5 @@ Lean                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 20:27:22 UTC
+ Last Updated on 24/07/2026 20:35:57 UTC
 <!--END_SECTION:waka-->
