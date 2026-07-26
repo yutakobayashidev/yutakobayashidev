@@ -46,9 +46,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 316.8 kB Used in GitHub's Storage 
+> 📦 316.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3,015 Contributions in the Year 2026
+> 🏆 3,054 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,10 +59,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                29135 commits       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-🌆 Daytime                36769 commits       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-🌃 Evening                44718 commits       ████████░░░░░░░░░░░░░░░░░   30.62 % 
-🌙 Night                  35415 commits       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+🌞 Morning                29176 commits       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+🌆 Daytime                36951 commits       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+🌃 Evening                44664 commits       ████████░░░░░░░░░░░░░░░░░   30.54 % 
+🌙 Night                  35455 commits       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
 ```
 
 
@@ -72,23 +72,21 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JSON                     10 mins             ████████████████████████░   97.18 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-sh                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+sh                       0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               64 repos            █████████████░░░░░░░░░░░░   51.61 % 
-JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Nix                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Rust                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Lean                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+TypeScript               65 repos            █████████████░░░░░░░░░░░░   52.00 % 
+JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Nix                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Rust                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Lean                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 
 
 
 
- Last Updated on 25/07/2026 20:18:26 UTC
+ Last Updated on 26/07/2026 20:24:53 UTC
 <!--END_SECTION:waka-->
