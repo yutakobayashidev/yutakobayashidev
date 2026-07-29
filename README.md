@@ -42,30 +42,59 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C585%20hrs%2059%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%2058%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 317.1 kB Used in GitHub's Storage 
+> 📦 317.5 kB Used in GitHub's Storage 
  > 
-> 🏆 3,068 Contributions in the Year 2026
+> 🏆 3,089 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 138 Public Repositories 
+> 📜 140 Public Repositories 
  > 
 > 🔑 54 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                29676 commits       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+🌆 Daytime                37629 commits       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+🌃 Evening                45969 commits       ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌙 Night                  36116 commits       ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+sh                       0 secs              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               65 repos            █████████████░░░░░░░░░░░░   52.00 % 
-JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Nix                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Rust                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Lean                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+TypeScript               65 repos            █████████████░░░░░░░░░░░░   51.18 % 
+Nix                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Rust                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Lean                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 
 
 
- Last Updated on 28/07/2026 21:45:15 UTC
+ Last Updated on 29/07/2026 21:30:24 UTC
 <!--END_SECTION:waka-->
