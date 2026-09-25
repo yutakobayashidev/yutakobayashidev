@@ -42,13 +42,13 @@
 ### 👩🏻‍💻 Development metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C586%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C586%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%2058%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 319.9 kB Used in GitHub's Storage 
+> 📦 319.8 kB Used in GitHub's Storage 
  > 
 > 🏆 3,524 Contributions in the Year 2026
  > 
@@ -61,10 +61,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                44017 commits       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-🌆 Daytime                55541 commits       ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-🌃 Evening                59220 commits       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-🌙 Night                  54240 commits       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+🌞 Morning                43922 commits       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+🌆 Daytime                55443 commits       ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+🌃 Evening                58943 commits       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+🌙 Night                  54057 commits       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
 ```
 
 
@@ -74,7 +74,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 12 mins             █████████████████████████   100.00 % 
+Markdown                 13 mins             ███████████████████████░░   90.56 % 
+TSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+jsonl                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,5 +99,5 @@ Lean                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 23:46:05 UTC
+ Last Updated on 25/09/2026 23:51:55 UTC
 <!--END_SECTION:waka-->
