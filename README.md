@@ -58,34 +58,6 @@
  > 
 > 🔑 54 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                44135 commits       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-🌆 Daytime                55725 commits       ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-🌃 Evening                59244 commits       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-🌙 Night                  54322 commits       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Markdown                 13 mins             ███████████████████████░░   90.56 % 
-TSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-jsonl                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -99,5 +71,5 @@ Lean                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 00:01:42 UTC
+ Last Updated on 30/09/2026 23:52:39 UTC
 <!--END_SECTION:waka-->
